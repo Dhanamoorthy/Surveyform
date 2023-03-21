@@ -1,0 +1,15 @@
+.form-group#required .control-label:after
+{
+      content:"*";
+      color:red;
+}
+.required{
+    color: orange;
+}
+ 
+td{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
